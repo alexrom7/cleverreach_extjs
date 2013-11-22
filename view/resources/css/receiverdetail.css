@@ -1,0 +1,18 @@
+/* 
+    Document   : receiverdetail.css
+    Created on : Nov 21, 2013, 11:37:19 PM
+    Author     : alexis
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+.textfield-disabled{
+    opacity: 1 !important;
+    border: 0 !important;
+    background: white !important;
+    font-weight: bold !important;
+}
